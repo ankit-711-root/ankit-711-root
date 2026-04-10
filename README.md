@@ -1,16 +1,46 @@
-## Hi there 👋
+# Ankit Kumar Paswan
 
-<!--
-**ankit-711-root/ankit-711-root** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Enthusiast | Ethical Hacker | Web Security Researcher | VAPT Specialist  
 
-Here are some ideas to get you started:
+🔗 Visit My GitHub Profile: https://github.com/ankit-711-root  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+I am passionate about cybersecurity with a strong interest in ethical hacking, vulnerability assessment, and penetration testing (VAPT). I focus on identifying security weaknesses in web applications and developing tools to strengthen system defenses. My goal is to contribute to a safer digital environment through continuous learning and practical security research.
+
+---
+
+## 🛠️ Skills
+- Web Application Security  
+- Penetration Testing (VAPT)  
+- Bug Bounty Hunting  
+- Network Security  
+
+---
+
+## ⚙️ Tools & Technologies
+- Burp Suite  
+- Nmap  
+- Wireshark  
+- Metasploit  
+- Kali Linux  
+
+---
+
+## 🚀 Projects
+- 🔍 Vulnerability Scanner  
+- 🛡️ Web Security Testing Tools  
+- 🔐 Password Strength Analyzer  
+
+---
+
+## 🎯 Current Focus
+- Advancing in Web Exploitation Techniques  
+- Building Custom VAPT Tools  
+- Actively Learning Bug Bounty Methodologies  
+
+---
+
+## 🌐 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/ankit-kumar-paswan-b57667274/
