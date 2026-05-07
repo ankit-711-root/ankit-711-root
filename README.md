@@ -1,6 +1,6 @@
 # Ankit Kumar Paswan
 
-Cybersecurity Enthusiast | Ethical Hacker | Web Security Researcher | VAPT Specialist  
+Cybersecurity Enthusiast | Ethical Hacker | Pentester | Web Security Researcher | VAPT Specialist  
 
 🔗 Visit My GitHub Profile: https://github.com/ankit-711-root  
 
