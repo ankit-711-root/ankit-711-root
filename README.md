@@ -14,9 +14,7 @@ https://github.com/ankit-711-root
 ## 👨‍💻 About Me
 
 I am passionate about cybersecurity with a strong interest in ethical hacking, vulnerability assessment, and penetration testing (VAPT).
-
 I focus on identifying security weaknesses in web applications and developing tools to strengthen system defenses.
-
 My goal is to contribute to a safer digital environment through continuous learning and practical security research.
 
 ---
