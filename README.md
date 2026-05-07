@@ -4,14 +4,12 @@
 
 ### Cybersecurity Enthusiast | Ethical Hacker | Pentester | VAPT Specialist
 
-🔗 Visit My GitHub Profile:  
-https://github.com/ankit-711-root
-
+⚡ Building Security Tools & Exploring Web Exploitation
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am passionate about cybersecurity with a strong interest in ethical hacking, vulnerability assessment, and penetration testing (VAPT).
 I focus on identifying security weaknesses in web applications and developing tools to strengthen system defenses.
@@ -19,7 +17,7 @@ My goal is to contribute to a safer digital environment through continuous learn
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 <p align="center">
 
@@ -37,7 +35,7 @@ My goal is to contribute to a safer digital environment through continuous learn
 
 ---
 
-## ⚙️ Tools & Technologies
+## Tools & Technologies
 
 - Burp Suite  
 - Nmap  
@@ -47,21 +45,21 @@ My goal is to contribute to a safer digital environment through continuous learn
 
 ---
 
-## 🚀 Projects
+## Projects
 - 🔍 Vulnerability Scanner  
 - 🛡️ Web Security Testing Tools  
 - 🔐 Password Strength Analyzer
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 - Advancing in Web Exploitation Techniques  
 - Building Custom VAPT Tools  
 - Actively Learning Bug Bounty Methodologies  
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 - GitHub: https://github.com/ankit-711-root
 - LinkedIn: https://www.linkedin.com/in/ankit-kumar-paswan-b57667274/
