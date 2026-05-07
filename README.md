@@ -52,17 +52,8 @@ My goal is to contribute to a safer digital environment through continuous learn
 ## 🚀 Projects
 - 🔍 Vulnerability Scanner  
 - 🛡️ Web Security Testing Tools  
-- 🔐 Password Strength Analyzer  
+- 🔐 Password Strength Analyzer
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ankit-711-root&show_icons=true&theme=tokyonight" width="48%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-711-root&theme=tokyonight" width="48%">
-
-</p>
 ---
 
 ## 🎯 Current Focus
@@ -80,17 +71,9 @@ My goal is to contribute to a safer digital environment through continuous learn
 
 ## 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://github.com/ankit-711-root">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/ankit-kumar-paswan-b57667274/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-</p>
+- GitHub: https://github.com/ankit-711-root
+- LinkedIn: [https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/ankit-kumar-paswan-b57667274/)
+- Email: contact.ankitpaswan@gmail.com
 
 ---
 
