@@ -4,8 +4,6 @@
 
 ### Cybersecurity Enthusiast | Ethical Hacker | Pentester | VAPT Specialist
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&size=25&center=true&vCenter=true&width=700&lines=Web+Security+Researcher;Bug+Bounty+Hunter;Cybersecurity+Student;Building+Security+Tools;Ethical+Hacker)](https://git.io/typing-svg)
-
 🔗 Visit My GitHub Profile:  
 https://github.com/ankit-711-root
 
@@ -37,27 +35,11 @@ My goal is to contribute to a safer digital environment through continuous learn
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-
-![OSINT](https://img.shields.io/badge/OSINT-4B0082?style=for-the-badge&logo=protonmail&logoColor=white)
-
-![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-8B0000?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
-
 </p>
 
 ---
 
 ## ⚙️ Tools & Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,python,bash,github,vscode" />
-
-</p>
-
-### 🔧 Security Tools
 
 - Burp Suite  
 - Nmap  
@@ -72,6 +54,15 @@ My goal is to contribute to a safer digital environment through continuous learn
 - 🛡️ Web Security Testing Tools  
 - 🔐 Password Strength Analyzer  
 
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ankit-711-root&show_icons=true&theme=tokyonight" width="48%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-711-root&theme=tokyonight" width="48%">
+
+</p>
 ---
 
 ## 🎯 Current Focus
@@ -81,5 +72,32 @@ My goal is to contribute to a safer digital environment through continuous learn
 
 ---
 
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=ankit-711-root&color=red)
+
+</div>
+
 ## 🌐 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/ankit-kumar-paswan-b57667274/
+
+<p align="center">
+
+<a href="https://github.com/ankit-711-root">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/ankit-kumar-paswan-b57667274/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ "Security is not a product, it's a process."
+
+Made with ❤️ by Ankit Kumar Paswan
+
+</div>
