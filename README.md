@@ -63,12 +63,6 @@ My goal is to contribute to a safer digital environment through continuous learn
 
 ---
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=ankit-711-root&color=red)
-
-</div>
-
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/ankit-711-root
@@ -82,5 +76,7 @@ My goal is to contribute to a safer digital environment through continuous learn
 ### ⚡ "Security is not a product, it's a process."
 
 Made with ❤️ by Ankit Kumar Paswan
+
+![](https://komarev.com/ghpvc/?username=ankit-711-root&color=red)
 
 </div>
