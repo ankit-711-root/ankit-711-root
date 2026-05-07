@@ -50,6 +50,15 @@ My goal is to contribute to a safer digital environment through continuous learn
 ---
 
 ## ⚙️ Tools & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,python,bash,github,vscode" />
+
+</p>
+
+### 🔧 Security Tools
+
 - Burp Suite  
 - Nmap  
 - Wireshark  
